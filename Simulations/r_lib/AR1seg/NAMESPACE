@@ -1,0 +1,3 @@
+exportPattern("^[[:alpha:]]+")
+export(AR1seg_func)
+import(Segmentor3IsBack)
